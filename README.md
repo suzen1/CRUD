@@ -27,8 +27,8 @@ This is a basic Node.js project using **Express** and **Mongoose** to perform **
 ### 1. Clone the repository
 
 
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone[ https://github.com/your-username/your-repo-name.git](https://github.com/suzen1/CRUD) ]
+cd CRUD
 2. Install dependencies
 bash
 Copy
@@ -73,3 +73,7 @@ Edit
   email: 'jake@gmail.com',
   username: 'jake_doe'
 }
+
+#👨‍💻 Author
+---
+Made with ❤️ by Sayyed Suzen Ali
