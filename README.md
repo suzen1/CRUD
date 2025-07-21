@@ -37,6 +37,7 @@ npm install
 ---
 3. Make sure MongoDB is running locally
 Your MongoDB should be running at:
+---
 
 bash
 Copy
@@ -54,6 +55,7 @@ Server runs at: http://localhost:3000
 
 --
 📬 API Endpoints
+---
 Method	Endpoint	Description
 GET	/	Welcome route
 GET	/create	Create a new user
@@ -62,6 +64,7 @@ GET	/update	Update a user (by username)
 GET	/delete	Delete a user (by name)
 
 📌 Example Data Used
+---
 js
 Copy
 Edit
