@@ -1,15 +1,19 @@
-🛠️ Simple User CRUD API with Express & Mongoose
+# 🛠️ Simple User CRUD API with Express & Mongoose
 
 This is a basic Node.js project using **Express** and **Mongoose** to perform **CRUD operations** on a MongoDB database named `databass`.
 
-🚀 Features
+---
+
+## 🚀 Features
 
 - Create a new user
 - Read user data
 - Update user info
 - Delete user record
 
- 📦 Technologies Used
+---
+
+## 📦 Technologies Used
 
 - Node.js
 - Express.js
@@ -18,7 +22,7 @@ This is a basic Node.js project using **Express** and **Mongoose** to perform **
 
 ---
 
- 🔧 Setup Instructions
+## 🔧 Setup Instructions
 
 ### 1. Clone the repository
 
@@ -29,7 +33,8 @@ cd your-repo-name
 bash
 Copy
 Edit
-# npm install
+npm install
+---
 3. Make sure MongoDB is running locally
 Your MongoDB should be running at:
 
@@ -38,22 +43,16 @@ Copy
 Edit
 mongodb://localhost:27017/databass
 If not, update the MongoDB URI in your userModel.js file.
+---
 
 4. Run the server
 bash
 Copy
 Edit
 node index.js
-Server runs on: http://localhost:3000
+Server runs at: http://localhost:3000
 
-📁 Folder Structure
-bash
-Copy
-Edit
-.
-├── index.js         # Main Express app
-├── userModel.js     # Mongoose schema and model
-└── README.md        # Documentation
+--
 📬 API Endpoints
 Method	Endpoint	Description
 GET	/	Welcome route
@@ -71,5 +70,3 @@ Edit
   email: 'jake@gmail.com',
   username: 'jake_doe'
 }
-👨‍💻 Author
-Made with 💻 by Sayyed Suzen Ali
