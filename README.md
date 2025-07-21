@@ -27,8 +27,8 @@ This is a basic Node.js project using **Express** and **Mongoose** to perform **
 ### 1. Clone the repository
 
 
-git clone:-https://github.com/suzen1/CRUD
-cd CRUD
+git clone:-https://github.com/suzen1/CRUD cd CRUD
+---
 2. Install dependencies
 bash
 Copy
